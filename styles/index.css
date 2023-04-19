@@ -61,6 +61,11 @@ main {
     text-align: center;
 }
 
+main h1 {
+    color: white;
+    font-size: 5.3rem;
+}
+
 #main-p {
     background-color: rgb(227, 47, 47);
     color: white;
