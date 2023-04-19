@@ -45,17 +45,25 @@ nav a:hover {
     color: rgb(227, 47, 47);
 }
 
-nav a:active {
-    background-color: red;
-}
-
-
 main {
     border: 2px solid black;
     grid-column: 2/3;
     grid-row: 2/3;
     margin-top: -70px;
     margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#main-p {
+    background-color: rgb(227, 47, 47);
+    color: white;
+    padding: 8px;
+    margin-top: 2px;
+    border-radius: 10px;
+    font-size: 1.1em;
 }
 
 footer {
