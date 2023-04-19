@@ -114,3 +114,13 @@ footer {
     }
 }
 
+/*Smaller Mobile*/
+@media only screen and (max-width: 405px) {
+    nav {
+        background-color: red;
+        margin-left: auto;
+        margin-right: auto; 
+        margin-top: 10px; 
+    }
+}
+
