@@ -12,10 +12,7 @@
     grid-template-rows: 1fr 1fr 1fr;
     height: 100vh;
     background-color: grey;
-    background-image: url("");
-    /* Pick one
-    ../images/index/two.jpeg;
-    ../images/electric/stratocaster.jpeg */
+    background-image: url("../images/acoustic/acoustic.jpeg");
     background-size: cover;
 }
 
