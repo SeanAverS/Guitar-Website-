@@ -133,6 +133,10 @@ footer {
 
 /*Smaller Mobile*/
 @media only screen and (max-width: 490px) {
+    #container {
+        background-size: 760px 800px;
+    }
+    
     main h1 {
         margin-top: -20px;
         font-size: 3.2em;
