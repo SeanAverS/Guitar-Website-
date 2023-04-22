@@ -77,7 +77,24 @@ aside {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: -70px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    /*<p> are left aligned */
 }
+
+aside h1 {
+    font-size: 3.6em;
+}
+
+aside p {
+    font-size: 1.2em;
+ 
+}
+
+
+
 
 footer {
     display: flex;
