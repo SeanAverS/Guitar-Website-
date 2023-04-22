@@ -60,6 +60,9 @@ main {
 main h1 {
     color: white;
     font-size: 5.3rem;
+    background-color: rgba(55, 55, 55, 0.5);
+    border-radius: 10px;
+    padding: 8px;
 }
 
 #main-p {
