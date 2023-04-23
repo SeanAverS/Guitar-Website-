@@ -10,7 +10,7 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     height: 100vh;
-    background-image: url("../images/index/guitarcollection.jpeg");
+    background-image: url("../images/index/guitarcollections.jpeg");
     background-size: cover;
 }
 
