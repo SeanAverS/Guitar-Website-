@@ -1,6 +1,6 @@
 # Guitar Website
 
-A Website that reviews the guitars I own. I wanted to showcase how I would format and present info on a website; That is something that is minimal, easy to navigate, and gets straight to the point of the Website itself. 
+A Website that reviews the guitars I own. I wanted to showcase how I would format and present info on a website; That is something that is minimal, easy to navigate, and gets straight to the point. 
 
 What I learned 
 
@@ -9,6 +9,6 @@ What I learned
 - Use background imgs as a guide for a websites color scheme
 
 Improvements 
-- Seperate page descriving the purpose and of this website
+- Seperate page describing the website purpose
 - Chose Background Imgs that don't disrupt the text in anyway 
 - Include Animations on page load to create visual interest
