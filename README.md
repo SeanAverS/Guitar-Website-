@@ -12,3 +12,9 @@ Improvements
 - Seperate page describing the website purpose
 - Chose Background Imgs that don't disrupt the text in anyway 
 - Include Animations on page load to create visual interest
+
+# Installation
+1. Clone the repo your machine - `git clone`
+2. Navigate to the project dir - `cd/Guitar-Website`
+3. Install dependencies - `npm install`
+4. Run project - `npm start`
